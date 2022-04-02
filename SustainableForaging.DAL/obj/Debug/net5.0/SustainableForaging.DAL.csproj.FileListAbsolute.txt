@@ -1,0 +1,15 @@
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\bin\Debug\net5.0\SustainableForaging.DAL.deps.json
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\bin\Debug\net5.0\SustainableForaging.DAL.dll
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\bin\Debug\net5.0\SustainableForaging.DAL.pdb
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\bin\Debug\net5.0\SustainableForaging.Core.dll
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\bin\Debug\net5.0\SustainableForaging.Core.pdb
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.csproj.AssemblyReference.cache
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.AssemblyInfoInputs.cache
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.AssemblyInfo.cs
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.csproj.CopyComplete
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.dll
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\refint\SustainableForaging.DAL.dll
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\SustainableForaging.DAL.pdb
+C:\Users\Aaron\Code\SustainableForaging\SustainableForaging.DAL\obj\Debug\net5.0\ref\SustainableForaging.DAL.dll
